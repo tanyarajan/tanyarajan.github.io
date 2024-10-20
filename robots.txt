@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tanyarajan.github.io/sitemap.xml
+Sitemap: https://tanyarajan.com/sitemap.xml
