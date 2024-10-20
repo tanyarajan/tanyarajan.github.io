@@ -13,7 +13,7 @@ Course Developer, TA for Rachel Glennerster
 
 
 
-**Human Capital (PhD**)
+**Human Capital, Markets, and the Family (PhD**)
 
 TA for James Heckman
 
