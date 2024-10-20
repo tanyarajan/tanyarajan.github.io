@@ -9,7 +9,7 @@ nav_order: 3
 
 **Intro to Development Economics (Undergrad)**
 
-Course Developer, TA for Rachel Glennerster
+Course Development, TA for Rachel Glennerster
 
 
 
