@@ -23,7 +23,7 @@ Fertility Decline and Urbanization in India (w/ Anup Malani)
 
 Long-term Follow-Up of the Malawi Family Planning Study (w/ Mahesh Karra and Daniel Maggio)
 
-Rural Employment and Seasonal Migration: A Study of MNREGA in Odisha, India (w/ Menna Bishop and Jack Glaser)
+Rural Employment and Seasonal Migration: A Study of NREGA in Odisha, India (w/ Menna Bishop and Jack Glaser)
 
 
 
