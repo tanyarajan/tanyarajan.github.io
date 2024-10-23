@@ -23,7 +23,7 @@ More broadly, my research focuses on topics at the intersection of labor, health
 
 You can find my CV [here](https://www.tanyarajan.com/assets/pdf/Rajan_CV_published.pdf).
 
-You can contact me at: tanyar [at] uchicago [dot] com.
+You can contact me at: tanyar [at] uchicago [dot] edu.
 
 
 
