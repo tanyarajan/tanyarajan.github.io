@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-**Working Papers**
+## **Working Papers**
 
 Untangling Informality: Wages, Preferences, and Sectoral Sorting in Bangladesh’s Garment Industry (***JMP -*** *Draft coming soon!*)
 
@@ -15,7 +15,7 @@ Untangling Informality: Wages, Preferences, and Sectoral Sorting in Bangladesh�
 
 
 
-**Works in Progress**
+## **Works in Progress**
 
 Health Financing and Healthcare Utilization in Malawi
 
@@ -29,7 +29,7 @@ Rural Employment and Seasonal Migration: A Study of NREGA in Odisha, India (w/ M
 
 
 
-**Pre-PhD Publications**
+## **Pre-PhD Publications**
 
 Cantor SB, Rajan T, Linder SK, Volk RJ. (2015). “A framework for evaluating the cost-effectiveness of patient decision aids: A case study using colorectal cancer screening.” Preventive Medicine, 77:168-73. [[link]](https://doi.org/10.1016/j.ypmed.2015.05.003)
 
