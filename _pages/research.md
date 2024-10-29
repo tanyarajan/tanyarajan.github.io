@@ -19,9 +19,9 @@ Untangling Informality: Wages, Preferences, and Sectoral Sorting in Bangladeshâ€
 
 Health Financing and Healthcare Utilization in Malawi
 
-Fertility Decline and Urbanization in India (w/ Anup Malani)
+Fertility Decline and Urbanization in India (w/ [Anup Malani](https://www.anupmalani.com/))
 
-Long-term Follow-Up of the Malawi Family Planning Study (w/ Mahesh Karra and Daniel Maggio)
+Long-term Follow-Up of the Malawi Family Planning Study (w/ [Mahesh Karra](https://sites.bu.edu/mvkarra/) and [Dan Maggio](https://www.danmaggio.com/))
 
 Rural Employment and Seasonal Migration: A Study of NREGA in Odisha, India (w/ Menna Bishop and Jack Glaser)
 
