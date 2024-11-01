@@ -20,7 +20,7 @@
     <style>
         .abstractText {
             display: none; /* Hide both abstract texts initially */
-            margin-top: 5px;
+            margin-top: 0px;
             margin-bottom: 5px;
             padding: 10px; /* Add some padding for readability */
             background-color: #F5F5F5; /* Light gray background */
@@ -30,20 +30,24 @@
         .toggle-button, .pdf-button {
             background-color: #004d00 !important; /* Dark green */
             color: #ffffff !important; /* White text */
-            padding: 5px 8px;
+            padding: 4px 6px;
             border: none; /* No border */
             border-radius: 5px;
             cursor: pointer;
-            font-size: 14px;
-            margin_top: 0px;
+            font-size: 12px;
+            margin_top: 0px !important;
             text-decoration: none !important; /* Remove underline for link button */
             display: inline-block; /* Ensures buttons sit next to each other */
-            font-weight: 500; /* Make font weight consistent */
+            font-weight: 400; /* Make font weight consistent */
         }
 
         /* Add a hover effect for a better user experience */
         .toggle-button:hover, .pdf-button:hover {
             background-color: #007000 !important; /* Slightly lighter green on hover */
+        }
+
+        .vspace-negative {
+            margin-bottom: 3px;
         }
 
     </style>
