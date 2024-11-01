@@ -21,6 +21,24 @@
         .abstractText {
             display: none; /* Hide both abstract texts initially */
             margin-top: 10px;
+            padding: 15px; /* Add some padding for readability */
+            background-color: #F5F5F5; /* Light gray background */
+        }
+        
+        /* Button styling */
+        .toggle-button {
+            background-color: #006400; /* Dark green */
+            color: #ffffff; /* White text */
+            padding: 10px 20px;
+            border: none; /* No border */
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        /* Add a hover effect for a better user experience */
+        .toggle-button:hover {
+            background-color: #004d00; /* Slightly darker green on hover */
         }
     </style>
   </head>
@@ -99,7 +117,8 @@
     <script>
         function toggleAbstract(abstractId) {
             var abstract = document.getElementById(abstractId);
-            if (abstract.style.display === "none") {
+            // Check if display is not set to block or none, then default it to none
+            if (abstract.style.display === "" || abstract.style.display === "none") {
                 abstract.style.display = "block";
             } else {
                 abstract.style.display = "none";
