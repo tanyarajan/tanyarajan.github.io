@@ -27,7 +27,7 @@
         }
 
         /* Button styling */
-        .toggle-button {
+        .toggle-button, .pdf-button {
             background-color: #004d00 !important; /* Dark green */
             color: #ffffff !important; /* White text */
             padding: 5px 8px;
@@ -35,11 +35,13 @@
             border-radius: 5px;
             cursor: pointer;
             font-size: 14px;
-            margin_top: 5px;
+            margin_top: 0px;
+            text-decoration: none; /* Remove underline for link button */
+            display: inline-block; /* Ensures buttons sit next to each other */
         }
 
         /* Add a hover effect for a better user experience */
-        .toggle-button:hover {
+        .toggle-button:hover, .pdf-button:hover {
             background-color: #007000 !important; /* Slightly lighter green on hover */
         }
     </style>
