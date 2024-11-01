@@ -9,7 +9,7 @@ nav_order: 2
 
 #### **Working Papers**
 
-Untangling Informality: Wages, Preferences, and Sectoral Sorting in Bangladesh’s Garment Industry (***JMP -*** *Draft coming soon!*)
+Untangling Informality: Wages, Preferences, and Sectoral Sorting in Bangladesh’s Garment Industry (***JMP***) [[link]](https://www.tanyarajan.com/assets/pdf/Rajan_JMP_latest.pdf)
 
 <br>
 
