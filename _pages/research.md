@@ -15,6 +15,10 @@ Untangling Informality: Wages, Preferences, and Sectoral Sorting in Bangladesh�
 
 <div id="abstractText1" class="abstractText"><p>In many low income countries, a regulated formal sector and an unregulated informal sector coexist within the same industry and occupation. Understanding why workers choose to work at informal rather than formal jobs is critical to crafting effective labor market policy. This paper studies the importance of two determinants of worker sorting between sectors: (1) search frictions and (2) worker preferences for nonwage amenities. Focusing on the garment industry in urban Bangladesh, I collect data on workers’ job histories and elicit their preferences for specific job amenities in a choice experiment. I use the data to estimate a partial equilibrium model of job search that incorporates (1) a dual-sector labor market with sector-specific search frictions and (2) heterogeneous preferences for amenities. I find that search frictions differ by sector—workers searching for a job from unemployment are 22pp more likely receive offers from the informal sector than the formal sector over the course of a year. Additionally, preferences for nonwage amenities are strong, with some workers willing to pay nearly 30% of their wages for amenities like good supervisors and factory formality. Finally, I use the model to understand the impact of various unemployment benefit policies, from universal cash transfers to targeted unemployment insurance. I show that targeted policies, which are hard to implement in a high-informality setting, can push workers who are more salary-motivated into the informal sector.</p></div>
 
+</br>
+
+
+
 #### **Works in Progress**
 
 Health Financing and Healthcare Utilization in Malawi
