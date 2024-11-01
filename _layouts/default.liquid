@@ -21,24 +21,26 @@
         .abstractText {
             display: none; /* Hide both abstract texts initially */
             margin-top: 10px;
-            padding: 15px; /* Add some padding for readability */
+            margin-bottom: 5px;
+            padding: 10px; /* Add some padding for readability */
             background-color: #F5F5F5; /* Light gray background */
         }
-        
+
         /* Button styling */
         .toggle-button {
-            background-color: #006400; /* Dark green */
-            color: #ffffff; /* White text */
+            background-color: #006400 !important; /* Dark green */
+            color: #ffffff !important; /* White text */
             padding: 10px 20px;
             border: none; /* No border */
             border-radius: 5px;
             cursor: pointer;
-            font-size: 16px;
+            font-size: 14px;
+            margin_top: 5px;
         }
 
         /* Add a hover effect for a better user experience */
         .toggle-button:hover {
-            background-color: #004d00; /* Slightly darker green on hover */
+            background-color: #004d00 !important; /* Slightly darker green on hover */
         }
     </style>
   </head>
@@ -101,18 +103,6 @@
     {% include scripts/jekyll_tabs.liquid %}
     {% include scripts/back_to_top.liquid %}
     {% include scripts/search.liquid %}
-
-
-  <button onclick="toggleAbstract('abstractText1')">Abstract 1</button>
-    <button onclick="toggleAbstract('abstractText2')">Abstract 2</button>
-
-    <div id="abstractText1" class="abstractText">
-        <p>This is the text for Abstract 1. It will display when the Abstract 1 button is clicked.</p>
-    </div>
-
-    <div id="abstractText2" class="abstractText">
-        <p>This is the text for Abstract 2. It will display when the Abstract 2 button is clicked.</p>
-    </div>
 
     <script>
         function toggleAbstract(abstractId) {
