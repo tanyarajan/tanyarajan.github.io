@@ -14,14 +14,14 @@
     {% endif %}
     {% include head.liquid %}
 
+   <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Toggle Abstracts</title>
     <style>
-    #myDIV {
-      width: 100%;
-      padding: 50px 0;
-      text-align: center;
-      background-color: #F5F5F5;
-      margin-top: 20px;
-    }
+        .abstractText {
+            display: none; /* Hide both abstract texts initially */
+            margin-top: 10px;
+        }
     </style>
   </head>
 
@@ -85,15 +85,27 @@
     {% include scripts/search.liquid %}
 
 
-  <script>
-  function myFunction() {
-    var x = document.getElementById("myDIV");
-    if (x.style.display === "none") {
-      x.style.display = "block";
-    } else {
-      x.style.display = "none";
-    }
-  }
-  </script>
+  <button onclick="toggleAbstract('abstractText1')">Abstract 1</button>
+    <button onclick="toggleAbstract('abstractText2')">Abstract 2</button>
+
+    <div id="abstractText1" class="abstractText">
+        <p>This is the text for Abstract 1. It will display when the Abstract 1 button is clicked.</p>
+    </div>
+
+    <div id="abstractText2" class="abstractText">
+        <p>This is the text for Abstract 2. It will display when the Abstract 2 button is clicked.</p>
+    </div>
+
+    <script>
+        function toggleAbstract(abstractId) {
+            var abstract = document.getElementById(abstractId);
+            if (abstract.style.display === "none") {
+                abstract.style.display = "block";
+            } else {
+                abstract.style.display = "none";
+            }
+        }
+    </script>
+
   </body>
 </html>
