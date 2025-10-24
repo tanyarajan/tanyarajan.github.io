@@ -17,9 +17,7 @@ social: false # includes social icons at the bottom of the page
 
 
 
-I am a Ph.D. Candidate in Economics at the University of Chicago. 
-
-**I am on the 2024-25 academic job market.** 
+I am an Associate at Cornerstone Research in Chicago. I received a Ph.D. in Economics from the University of Chicago in 2025.
 
 My **[job market paper](https://www.tanyarajan.com/assets/pdf/Rajan_JMP_latest.pdf)** studies worker mobility between formal and informal sector jobs in the garment industry in Bangladesh.
 
